@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Domain Driven Design**
 
-- 👨‍💻 All of my projects are available at [joserbala.netlify.app](joserbala.netlify.app)
+- 👨‍💻 My portfolio is available at [joserbala.netlify.app](joserbala.netlify.app)
 
 - 💬 Ask me about **Unity and C#! Or even about my favourite ice cream flavour!**
 
