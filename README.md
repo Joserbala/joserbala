@@ -1,5 +1,5 @@
 <h1 align="center">Huzzah! I'm José Gala</h1>
-<h3 align="center">A passionate Videogame Software Engineer</h3>
+<h3 align="center">A passionate Video Game Software Engineer</h3>
 
 - 🌱 I’m currently learning **Domain Driven Design**
 
