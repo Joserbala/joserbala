@@ -1,4 +1,4 @@
-<h1 align="center">Huzzah! I'm José Gala</h1>
+<h1 align="center">Huzzah! I'm José Gala Naranjo</h1>
 <h3 align="center">A passionate Video Game Software Engineer</h3>
 
 - 🌱 I’m currently learning **Domain Driven Design**
