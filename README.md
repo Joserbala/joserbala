@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Domain Driven Design**
 
-- 👨‍💻 My portfolio is available at <a href="https://joserbala.dev">joserbala.dev</a>
-
 - 💬 Ask me about **Unity and C#! Or even about my favourite ice cream flavour!**
 
 - 📫 You can reach me at **jgalanar@gmail.com**
