@@ -37,7 +37,7 @@
   </a>
 </p>
 
-![Me at MálagaJam Weekend 13](./images/me_at_mjw13.jpg "MálagaJam Weekend 13")
+![Me at MálagaJam Weekend 13](./images/me_at_mjw13.jpg "Me at MálagaJam Weekend 13")
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joserbala&theme=dark" alt="joserbala" />
