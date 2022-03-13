@@ -2,19 +2,13 @@
 ![Me at MálagaJam Weekend 13!](./images/me_at_mjw13.jpg "Me at MálagaJam Weekend 13!")
 ## Video Game Software Engineer
 
-<br/>
-
 🌈 they / them
 
 🌐 English, Spanish
 
-<br/>
-
 - 🌟 Focus on maintainability and extensibility, reducing the cost derived from continuous development.
 - 📑 Cleanliness and readability of the code.
 - 👩‍🔧 Continously studying software development processes and applying them to video games.
-
-<br/>
 
 ### Connect with me!
 [<img alt="José (Joser) Gala Naranjo | LinkedIn" height="25px"  src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>][linkedin]
