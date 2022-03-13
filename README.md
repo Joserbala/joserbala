@@ -1,18 +1,28 @@
-<h1 align="center">Huzzah! I'm José Gala Naranjo</h1>
-<h3 align="center">A passionate Video Game Software Engineer</h3>
+# Huzzah! Joser here! 🙌
+![Me at MálagaJam Weekend 13!](./images/me_at_mjw13.jpg "Me at MálagaJam Weekend 13!")
+## Video Game Software Engineer
 
-- 🌱 I’m currently learning **Domain Driven Design**
+<br/>
 
-- 💬 Ask me about **Unity and C#! Or even about my favourite ice cream flavour!**
+🌈 they / them
 
-- 📫 You can reach me at **jgalanar@gmail.com**
+🌐 English, Spanish
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/joserbala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joserbala" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
+- 🌟 Cleanliness and readability of the code.
+- 🧑‍🎓 Continously studying software development processes and applying them to video games.
+
+### Connect with me!
+[<img align="left" alt="José (Joser) Gala Naranjo | LinkedIn" height="25px"  src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>][linkedin]
+[<img align="left" alt="Joser (@Joserbala) / Twitter" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"/>][twitter]
+
+[linkedin]: https://www.linkedin.com/in/joserbala/
+[twitter]: https://twitter.com/Joserbala
+
+<br/>
+
+### Technologies I enjoy
 <p align="left">
   <a href="https://unity.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
@@ -37,7 +47,6 @@
   </a>
 </p>
 
-![Me at MálagaJam Weekend 13](./images/me_at_mjw13.jpg "Me at MálagaJam Weekend 13")
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joserbala&theme=dark" alt="joserbala" />
