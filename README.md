@@ -1,5 +1,6 @@
 # Huzzah! Joser here! 🙌
 ![Me at MálagaJam Weekend 13!](./images/me_at_mjw13.jpg "Me at MálagaJam Weekend 13!")
+
 ## Video Game Software Engineer
 
 🌈 they / them
@@ -20,10 +21,13 @@
 ### Technologies I enjoy
 <p>
   <img title="C#"  alt="C#" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img title="C++" alt="C++" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
   <img title="Unity" alt="Unity" height="30px" src="https://i.redd.it/tu3gt6ysfxq71.png"/>
   <img title="git" alt="git" height="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-  <img title="C++" alt="C++" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-  <img title="Amazon Web Services" alt="Amazon Web Services" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+  <img title="Serverless Framework" alt="Serverless Framework" height="30px" src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png"/>
+  <img title="GitHub" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg"/>
+  <img title="PlantUML" alt="PlantUML" height="30px" src="https://plugins.jetbrains.com/files/7017/122599/icon/pluginIcon.svg"/>
+  <img title="PlayFab" alt="PlayFab" height="30px" src="https://www.nuget.org/profiles/PlayFab/avatar"/>
 </p>
 
 <br/>
