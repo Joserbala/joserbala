@@ -1,5 +1,5 @@
 # Huzzah! Joser here! 🙌
-![Me at MálagaJam Weekend 13!](./images/me_at_mjw13.jpg "Me at MálagaJam Weekend 13!")
+<img title="Me at MálagaJam Weekend 13!" alt="Me at MálagaJam Weekend 13!" height="300px" src="./images/me_at_mjw13.jpg"/>
 
 ## Video Game Software Engineer
 
