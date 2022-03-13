@@ -46,4 +46,6 @@
 - Refactoring: Improving the Design of Existing Code (2nd Edition); Martin Fowler
 - Working Effectively with Legacy Code; Michael C. Feathers
 
+## Activity
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joserbala&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
