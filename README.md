@@ -8,7 +8,7 @@
 
 - 🌟 Focus on maintainability and extensibility, reducing the cost derived from continuous development.
 - 📑 Cleanliness and readability of the code.
-- 👩‍🔧 Continously studying software development processes and applying them to video games.
+- 👩‍🔧 Continuously studying software development processes and applying them to video games.
 
 ### Connect with me!
 [<img alt="José (Joser) Gala Naranjo | LinkedIn" height="25px"  src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>][linkedin]
