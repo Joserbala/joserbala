@@ -18,7 +18,7 @@
 [linkedin]: https://www.linkedin.com/in/joserbala/
 [twitter]: https://twitter.com/Joserbala
 
-### Technologies I enjoy
+### Technologies I've been working with and enjoy
 <p>
   <img title="C#" alt="C#" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img title="C++" alt="C++" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
