@@ -34,15 +34,17 @@
 
 ▶️ Current
 - Head First Design Patterns, 2nd Edition; Eric Freeman, Elisabeth Robson
-- How to Win Friends and Influence People; Dale Carnegie
+- Infrastructure as Code, 2nd Edition; Kief Morris
 
 ⏸️ Postponed
 - Domain-Driven Design: Tackling Complexity in the Heart of Software; Eric Evans
+- How to Win Friends and Influence People; Dale Carnegie
 
 ⏭️ Next
+- Unit Testing Principles, Practices, and Patterns; Vladimir Khorikov
+- The Art of Readable Code; Dustin Boswell, Trevor Foucher
 - A Tour of C++ (Second edition); Bjarne Strostrup
 - Accelerated C++: Practical Programming by Example; Andrew Koenig, Barbara E. Moo
-- Unit Testing Principles, Practices, and Patterns; Vladimir Khorikov
 - Refactoring: Improving the Design of Existing Code (2nd Edition); Martin Fowler
 - Working Effectively with Legacy Code; Michael C. Feathers
 
