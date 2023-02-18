@@ -43,12 +43,12 @@
 ### ⏭️ Next
 - Unit Testing Principles, Practices, and Patterns; Vladimir Khorikov
 - The Art of Readable Code; Dustin Boswell, Trevor Foucher
-- UML Distilled: A Brief Guide to the Standard Object Modeling Language; Martin Fowler
-- Refactoring: Improving the Design of Existing Code (2nd Edition); Martin Fowler
+- UML Distilled: A Brief Guide to the Standard Object Modeling Language, 3rd Edition; Martin Fowler
+- Refactoring: Improving the Design of Existing Code, 2nd Edition; Martin Fowler
 - Working Effectively with Legacy Code; Michael C. Feathers
 - The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition; Frederick P. Brooks
 - The Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh
-- A Tour of C++ (Second edition); Bjarne Strostrup
+- A Tour of C++, 2nd Edition; Bjarne Strostrup
 - Accelerated C++: Practical Programming by Example; Andrew Koenig, Barbara E. Moo
 
 ## Activity
