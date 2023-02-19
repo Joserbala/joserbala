@@ -36,11 +36,11 @@
 - Head First Design Patterns, 2nd Edition; Eric Freeman, Elisabeth Robson
 - Infrastructure as Code, 2nd Edition; Kief Morris
 
-### ⏸️ Postponed
+### ⏸️ On-Hold
 - Domain-Driven Design: Tackling Complexity in the Heart of Software; Eric Evans
 - How to Win Friends and Influence People; Dale Carnegie
 
-### ⏭️ Next
+### ⏭️ Planned
 - Unit Testing Principles, Practices, and Patterns; Vladimir Khorikov
 - The Art of Readable Code; Dustin Boswell, Trevor Foucher
 - UML Distilled: A Brief Guide to the Standard Object Modeling Language, 3rd Edition; Martin Fowler
