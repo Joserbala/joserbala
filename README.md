@@ -13,7 +13,7 @@
 
 ### Connect with me!
 [<img title="LinkedIn" alt="José (Joser) Gala Naranjo | LinkedIn" height="30px"  src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>][linkedin]
-[<img title="LinkedIn" alt="Joser (@Joserbala) / Twitter" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"/>][twitter]
+[<img title="Twitter" alt="Joser (@Joserbala) / Twitter" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"/>][twitter]
 
 [linkedin]: https://www.linkedin.com/in/joserbala/
 [twitter]: https://twitter.com/Joserbala
