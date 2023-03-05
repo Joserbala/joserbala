@@ -37,25 +37,25 @@
 
 ### ▶️ Current
 
-- The Art of Readable Code • Dustin Boswell, Trevor Foucher
-- Unit Testing Principles, Practices, and Patterns • Vladimir Khorikov
-- Head First Design Patterns, 2nd Edition • Eric Freeman, Elisabeth Robson
+- D. Boswell and T. Foucher, *The Art of Readable Code*.
+- V. Khorikov, *Unit Testing Principles, Practices, and Patterns*.
+- E. Freeman and E. Robson, *Head First Design Patterns*, 2nd ed.
 
 ### ⏸️ On-Hold
 
-- Domain-Driven Design: Tackling Complexity in the Heart of Software • Eric Evans
-- How to Win Friends and Influence People • Dale Carnegie
-- Infrastructure as Code, 2nd Edition • Kief Morris
+- E. Evans, *Domain-Driven Design: Tackling Complexity in the Heart of Software*.
+- D. Carnegie, *How to Win Friends and Influence People*.
+- K. Morris, *Infrastructure as Code*, 2nd ed.
 
 ### ⏭️ Planned
 
-- UML Distilled: A Brief Guide to the Standard Object Modeling Language, 3rd Edition • Martin Fowler
-- Refactoring: Improving the Design of Existing Code, 2nd Edition • Martin Fowler
-- Working Effectively with Legacy Code • Michael C. Feathers
-- The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition • Frederick P. Brooks
-- The Unified Software Development Process • Ivar Jacobson, Grady Booch, James Rumbaugh
-- A Tour of C++, 2nd Edition • Bjarne Strostrup
-- Accelerated C++: Practical Programming by Example • Andrew Koenig, Barbara E. Moo
+- M. Fowler, *UML Distilled: A Brief Guide to the Standard Object Modeling Language*, 3rd ed.
+- M. Fowler, *Refactoring: Improving the Design of Existing Code*, 2nd ed.
+- M. C. Feathers, *Working Effectively with Legacy Code*.
+- F. P. Brooks, *The Mythical Man-Month: Essays on Software Engineering*, Anniversary ed.
+- I. Jacobson, G. Booch, and J. Rumbaugh, *The Unified Software Development Process*.
+- B. Stroustrup, *A Tour of C++*, 3rd ed.
+- A. Koenig and B. E. Moo, *Accelerated C++: Practical Programming by Example*.
 
 ## Activity
 
