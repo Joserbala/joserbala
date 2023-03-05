@@ -1,4 +1,5 @@
 # Huzzah! Joser here! 🙌
+
 ![Me at MálagaJam Weekend 13!](./images/me_at_mjw13.jpg "Me at MálagaJam Weekend 13!")
 
 ## Video Game Software Engineer
@@ -12,6 +13,7 @@
 - 👩‍🔧 Continuously studying software development processes and applying them to video games.
 
 ### Connect with me!
+
 [<img title="LinkedIn" alt="José (Joser) Gala Naranjo | LinkedIn" height="30px"  src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>][linkedin]
 [<img title="Twitter" alt="Joser (@Joserbala) / Twitter" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"/>][twitter]
 
@@ -19,6 +21,7 @@
 [twitter]: https://twitter.com/Joserbala
 
 ### Technologies I've been working with and enjoy
+
 <p>
   <img title="C#" alt="C#" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img title="C++" alt="C++" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
@@ -33,16 +36,19 @@
 ## Readings
 
 ### ▶️ Current
+
 - The Art of Readable Code • Dustin Boswell, Trevor Foucher
 - Unit Testing Principles, Practices, and Patterns • Vladimir Khorikov
 - Head First Design Patterns, 2nd Edition • Eric Freeman, Elisabeth Robson
 
 ### ⏸️ On-Hold
+
 - Domain-Driven Design: Tackling Complexity in the Heart of Software • Eric Evans
 - How to Win Friends and Influence People • Dale Carnegie
 - Infrastructure as Code, 2nd Edition • Kief Morris
 
 ### ⏭️ Planned
+
 - UML Distilled: A Brief Guide to the Standard Object Modeling Language, 3rd Edition • Martin Fowler
 - Refactoring: Improving the Design of Existing Code, 2nd Edition • Martin Fowler
 - Working Effectively with Legacy Code • Michael C. Feathers
