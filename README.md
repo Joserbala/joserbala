@@ -34,6 +34,7 @@
 
 ### ▶️ Current
 - The Art of Readable Code • Dustin Boswell, Trevor Foucher
+- Unit Testing Principles, Practices, and Patterns • Vladimir Khorikov
 - Head First Design Patterns, 2nd Edition • Eric Freeman, Elisabeth Robson
 
 ### ⏸️ On-Hold
@@ -42,7 +43,6 @@
 - Infrastructure as Code, 2nd Edition • Kief Morris
 
 ### ⏭️ Planned
-- Unit Testing Principles, Practices, and Patterns • Vladimir Khorikov
 - UML Distilled: A Brief Guide to the Standard Object Modeling Language, 3rd Edition • Martin Fowler
 - Refactoring: Improving the Design of Existing Code, 2nd Edition • Martin Fowler
 - Working Effectively with Legacy Code • Michael C. Feathers
