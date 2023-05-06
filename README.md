@@ -57,6 +57,7 @@
 - M. C. Feathers, *Working Effectively with Legacy Code*.
 - F. P. Brooks, *The Mythical Man-Month: Essays on Software Engineering*, Anniversary ed.
 - I. Jacobson, G. Booch, and J. Rumbaugh, *The Unified Software Development Process*.
+- D. Thomas and A. Hunt, *The Pragmatic Programmer*, 20th Anniversary ed.
 - B. Stroustrup, *A Tour of C++*, 3rd ed.
 - A. Koenig and B. E. Moo, *Accelerated C++: Practical Programming by Example*.
 
