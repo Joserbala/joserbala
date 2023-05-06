@@ -40,6 +40,10 @@
 - V. Khorikov, *Unit Testing Principles, Practices, and Patterns*.
 - E. Freeman and E. Robson, *Head First Design Patterns*, 2nd ed.
 
+### ☑ Finished
+
+- D. Boswell and T. Foucher, *The Art of Readable Code*.
+
 ### ⏸️ On-Hold
 
 - E. Evans, *Domain-Driven Design: Tackling Complexity in the Heart of Software*.
@@ -55,10 +59,6 @@
 - I. Jacobson, G. Booch, and J. Rumbaugh, *The Unified Software Development Process*.
 - B. Stroustrup, *A Tour of C++*, 3rd ed.
 - A. Koenig and B. E. Moo, *Accelerated C++: Practical Programming by Example*.
-
-### ☑ Finished
-
-- D. Boswell and T. Foucher, *The Art of Readable Code*.
 
 ## Activity
 
