@@ -37,6 +37,7 @@
 
 ### ▶️ Current
 
+- J. Dunstan, *C++ For C# Developers*.
 - V. Khorikov, *Unit Testing Principles, Practices, and Patterns*.
 - E. Freeman and E. Robson, *Head First Design Patterns*, 2nd ed.
 
