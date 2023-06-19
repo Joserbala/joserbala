@@ -40,6 +40,7 @@
 - J. Dunstan, *C++ For C# Developers*.
 - E. Freeman and E. Robson, *Head First Design Patterns*, 2nd ed.
 - E. Hendrickson, *Explore It! Reduce Risk and Increase Confidence with Exploratory Testing*.
+- E. Buonanno, *Functional Programming in C#*, 2nd ed.
 
 ### ☑ Finished
 
