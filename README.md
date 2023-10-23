@@ -38,8 +38,6 @@
 ### ▶️ Current
 
 - J. Dunstan, *C++ For C# Developers*.
-- E. Freeman and E. Robson, *Head First Design Patterns*, 2nd ed.
-- E. Hendrickson, *Explore It! Reduce Risk and Increase Confidence with Exploratory Testing*.
 - E. Buonanno, *Functional Programming in C#*, 2nd ed.
 
 ### ☑ Finished
@@ -52,9 +50,14 @@
 - E. Evans, *Domain-Driven Design: Tackling Complexity in the Heart of Software*.
 - D. Carnegie, *How to Win Friends and Influence People*.
 - K. Morris, *Infrastructure as Code*, 2nd ed.
+- E. Freeman and E. Robson, *Head First Design Patterns*, 2nd ed.
+- E. Hendrickson, *Explore It! Reduce Risk and Increase Confidence with Exploratory Testing*.
 
 ### ⏭️ Planned
 
+- S. Mancuso, *Software Craftsman, The: Professionalism, Pragmatism, Pride*.
+- T. DeMarco and T. Lister, *Peopleware: Productive Projects and Teams*, 3rd ed.
+- K. Patterson, J. Grenny, R. McMillan, and A. Switzler, *Crucial Conversations: Tools for Talking When Stakes Are High*, 2nd ed.
 - M. Fowler, *UML Distilled: A Brief Guide to the Standard Object Modeling Language*, 3rd ed.
 - M. Fowler, *Refactoring: Improving the Design of Existing Code*, 2nd ed.
 - M. C. Feathers, *Working Effectively with Legacy Code*.
