@@ -66,6 +66,7 @@
 - D. Thomas and A. Hunt, *The Pragmatic Programmer*, 20th Anniversary ed.
 - B. Stroustrup, *A Tour of C++*, 3rd ed.
 - A. Koenig and B. E. Moo, *Accelerated C++: Practical Programming by Example*.
+- J. Fried and D. H. Hansson, *Remote: Office Not Required*.
 
 ## Activity
 
