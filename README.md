@@ -35,38 +35,7 @@
 
 ## Readings
 
-### ▶️ Current
-
-- T. DeMarco and T. Lister, *Peopleware: Productive Projects and Teams*, 3rd ed.
-
-### ☑ Finished
-
-- D. Boswell and T. Foucher, *The Art of Readable Code*.
-- V. Khorikov, *Unit Testing Principles, Practices, and Patterns*.
-
-### ⏸️ On-Hold
-
-- E. Evans, *Domain-Driven Design: Tackling Complexity in the Heart of Software*.
-- D. Carnegie, *How to Win Friends and Influence People*.
-- K. Morris, *Infrastructure as Code*, 2nd ed.
-- E. Freeman and E. Robson, *Head First Design Patterns*, 2nd ed.
-- E. Hendrickson, *Explore It! Reduce Risk and Increase Confidence with Exploratory Testing*.
-- J. Dunstan, *C++ For C# Developers*.
-- E. Buonanno, *Functional Programming in C#*, 2nd ed.
-
-### ⏭️ Planned
-
-- S. Mancuso, *Software Craftsman, The: Professionalism, Pragmatism, Pride*.
-- K. Patterson, J. Grenny, R. McMillan, and A. Switzler, *Crucial Conversations: Tools for Talking When Stakes Are High*, 2nd ed.
-- M. Fowler, *UML Distilled: A Brief Guide to the Standard Object Modeling Language*, 3rd ed.
-- M. Fowler, *Refactoring: Improving the Design of Existing Code*, 2nd ed.
-- M. C. Feathers, *Working Effectively with Legacy Code*.
-- F. P. Brooks, *The Mythical Man-Month: Essays on Software Engineering*, Anniversary ed.
-- I. Jacobson, G. Booch, and J. Rumbaugh, *The Unified Software Development Process*.
-- D. Thomas and A. Hunt, *The Pragmatic Programmer*, 20th Anniversary ed.
-- B. Stroustrup, *A Tour of C++*, 3rd ed.
-- A. Koenig and B. E. Moo, *Accelerated C++: Practical Programming by Example*.
-- J. Fried and D. H. Hansson, *Remote: Office Not Required*.
+You can check my software-related reading list on [Goodreads](https://www.goodreads.com/review/list/67951544?shelf=software) (column "read" will display a date if I've read the book).
 
 ## Activity
 
