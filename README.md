@@ -15,7 +15,7 @@
 ### Connect with me!
 
 [<img title="LinkedIn" alt="José (Joser) Gala Naranjo | LinkedIn" height="30px"  src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>][linkedin]
-[<img title="Twitter" alt="Joser (@Joserbala) / Twitter" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"/>][twitter]
+[<img title="Twitter" alt="Joser (@Joserbala) / Twitter" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"/>][twitter]
 
 [linkedin]: https://www.linkedin.com/in/joserbala/
 [twitter]: https://twitter.com/Joserbala
@@ -35,27 +35,7 @@
 
 ## Readings
 
-### ▶️ Current
-
-- D. Boswell and T. Foucher, *The Art of Readable Code*.
-- V. Khorikov, *Unit Testing Principles, Practices, and Patterns*.
-- E. Freeman and E. Robson, *Head First Design Patterns*, 2nd ed.
-
-### ⏸️ On-Hold
-
-- E. Evans, *Domain-Driven Design: Tackling Complexity in the Heart of Software*.
-- D. Carnegie, *How to Win Friends and Influence People*.
-- K. Morris, *Infrastructure as Code*, 2nd ed.
-
-### ⏭️ Planned
-
-- M. Fowler, *UML Distilled: A Brief Guide to the Standard Object Modeling Language*, 3rd ed.
-- M. Fowler, *Refactoring: Improving the Design of Existing Code*, 2nd ed.
-- M. C. Feathers, *Working Effectively with Legacy Code*.
-- F. P. Brooks, *The Mythical Man-Month: Essays on Software Engineering*, Anniversary ed.
-- I. Jacobson, G. Booch, and J. Rumbaugh, *The Unified Software Development Process*.
-- B. Stroustrup, *A Tour of C++*, 3rd ed.
-- A. Koenig and B. E. Moo, *Accelerated C++: Practical Programming by Example*.
+You can check my software-related reading list on [Goodreads](https://www.goodreads.com/review/list/67951544?shelf=software) (column "read" will display a date if I've read the book).
 
 ## Activity
 
