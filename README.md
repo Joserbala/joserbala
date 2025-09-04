@@ -28,8 +28,10 @@
   <img title="Unreal Engine" alt="Unreal Engine" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"/>
   <img title="Unity" alt="Unity" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
   <img title="Git" alt="Git" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img title="JetBrains Rider" alt="JetBrains Rider" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg"/>
   <img title="Confluence" alt="Confluence" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg"/>
   <img title="GitHub" alt="GitHub" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img title="Markdown" alt="Markdown" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"/>
   <img title="PlantUML" alt="PlantUML" height="35px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/plantuml.svg"/>
   <img title="Serverless Framework" alt="Serverless Framework" height="35px" src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png"/>
   <img title="PlayFab" alt="PlayFab" height="35px" src="https://www.nuget.org/profiles/PlayFab/avatar"/>
