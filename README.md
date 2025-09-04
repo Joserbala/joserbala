@@ -2,7 +2,7 @@
 
 ![Me at MálagaJam Weekend 17!](./images/me_at_mjw17.jpg "Me at MálagaJam Weekend 17!")
 
-## Video Game Software Engineer
+## Video Game Software Craftsperson
 
 🌈 they / them
 
