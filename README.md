@@ -14,11 +14,11 @@
 
 ### Connect with me!
 
-[<img title="LinkedIn" alt="José (Joser) Gala Naranjo | LinkedIn" height="30px"  src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>][linkedin]
-[<img title="Twitter" alt="Joser (@Joserbala) / Twitter" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"/>][twitter]
+[<img title="LinkedIn" alt="Joser Gala Naranjo | LinkedIn" height="30px"  src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>][linkedin]
+[<img title="Bluesky" alt="Joser (@joserbala.dev) -- Bluesky" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg"/>][bluesky]
 
-[linkedin]: https://www.linkedin.com/in/joserbala/
-[twitter]: https://twitter.com/Joserbala
+[linkedin]: https://www.linkedin.com/in/joserbala
+[bluesky]: https://bsky.app/profile/joserbala.dev
 
 ### Technologies I've been working with and enjoy
 
