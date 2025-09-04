@@ -23,13 +23,15 @@
 ### Technologies I've been working with and enjoy
 
 <p>
-  <img title="C#" alt="C#" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img title="C++" alt="C++" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-  <img title="Unity" alt="Unity" height="35px" src="https://i.redd.it/tu3gt6ysfxq71.png"/>
-  <img title="Git" alt="Git" height="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+  <img title="C++" alt="C++" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img title="C#" alt="C#" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img title="Unreal Engine" alt="Unreal Engine" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"/>
+  <img title="Unity" alt="Unity" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
+  <img title="Git" alt="Git" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img title="Confluence" alt="Confluence" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg"/>
+  <img title="GitHub" alt="GitHub" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img title="PlantUML" alt="PlantUML" height="35px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/plantuml.svg"/>
   <img title="Serverless Framework" alt="Serverless Framework" height="35px" src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png"/>
-  <img title="GitHub" alt="GitHub" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg"/>
-  <img title="PlantUML" alt="PlantUML" height="35px" src="https://plugins.jetbrains.com/files/7017/122599/icon/pluginIcon.svg"/>
   <img title="PlayFab" alt="PlayFab" height="35px" src="https://www.nuget.org/profiles/PlayFab/avatar"/>
 </p>
 
